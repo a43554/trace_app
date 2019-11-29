@@ -1,9 +1,8 @@
 {
-  "latestVersion": "1.0.0.3",
-  "latestVersionCode": 4,
+  "latestVersion": "1.0.0.4",
+  "latestVersionCode": 5,
   "url": "https://github.com/a43554/trace_app/releases/latest/download/app-debug.apk",
   "releaseNotes": [
-    "- UI Fixes.",
-    "- Fixed application terminating current service when being started."
+    "- Launch another application."
   ]
 }
