@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0.0",
-  "latestVersionCode": 1,
+  "latestVersion": "1.0.0.1",
+  "latestVersionCode": 2,
   "url": "https://github.com/a43554/trace_app/releases/latest/download/app-debug.apk",
   "releaseNotes": [
-    "- Start Version."
+    "- First update test."
   ]
 }
