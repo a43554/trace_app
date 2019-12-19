@@ -1,8 +1,8 @@
 {
-  "latestVersion": "1.0.0.5",
-  "latestVersionCode": 6,
+  "latestVersion": "1.0.0.6",
+  "latestVersionCode": 7,
   "url": "https://github.com/a43554/trace_app/releases/latest/download/app-debug.apk",
   "releaseNotes": [
-    "- Accessibility features."
+    "- Small fixes."
   ]
 }
