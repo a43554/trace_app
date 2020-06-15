@@ -1,6 +1,6 @@
 {
-  "latestVersion": "1.0.1.15",
-  "latestVersionCode": 64,
+  "latestVersion": "1.0.1.16",
+  "latestVersionCode": 68,
   "url": "https://github.com/a43554/trace_app/releases/latest/download/app-debug.apk",
   "releaseNotes": [
     "- Fixes."
